@@ -1,0 +1,45 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+
+h1{
+font-size:50px;
+	color:turquoise;
+	letter-spacing:5px;
+	text-align: center;
+}
+
+p{
+	color:white;
+	font-size:25px;
+	letter-spacing:3px;
+
+}
+
+
+body{
+	background-image: url("img/gymmat.jpeg");
+		background-size: cover;
+		background-repeat: no-repeat;
+}
+
+img{
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img{
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img{
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+
+}

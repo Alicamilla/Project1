@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding:0;
+}
+
+
+h1{
+	font-size:50px;
+	color:deepskyblue;
+	letter-spacing:5px;
+	text-align: center;
+
+
+}
+
+p{
+	color:black;
+	font-size:25px;
+	letter-spacing:3px;
+}
+
+
+body{
+		background-image: url("img/travel.jpeg");
+		
+}
+
+img{
+	height: 3400px;
+	width:400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+img{
+	height: 400px;
+	width:400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+img{
+	height: 400px;
+	width:400px;
+	margin-left: auto;
+	margin-right: auto;
+}
